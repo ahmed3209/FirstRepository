@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">onclick_activity</string>
+    <string name="sample_text">Activity 2</string>
+    <string name="don_t_move_btn">Activity 1</string>
+    <string name="sample_text_g">Activity 1</string>
+    <string name="click_here_btn">Click Here</string>
+    <string name="sample_text3">Activity 3</string>
+    <string name="activity_3_btn">Activity 3</string>
+</resources>
